@@ -17,7 +17,15 @@ Identify differentially expressed genes and perform functional enrichment analys
 5. KEGG pathway analysis
 
 ## Results
-(Add screenshots here)
+
+### Volcano Plot
+![Volcano Plot](results/volcano_plot.png)
+
+### Heatmap
+![Heatmap](results/heatmap.png)
+
+### GO Enrichment
+![GO Enrichment](results/go_enrichment.png)
 
 ## Dataset
 GEO Dataset: GSE25066
