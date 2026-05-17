@@ -27,5 +27,8 @@ Identify differentially expressed genes and perform functional enrichment analys
 ### GO Enrichment
 ![GO Enrichment](results/go_enrichment.png)
 
+### KEGG Pathway Analysis
+![KEGG Pathway Analysis](results/kegg_analysis.png)
+
 ## Dataset
 GEO Dataset: GSE25066
